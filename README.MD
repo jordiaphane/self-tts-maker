@@ -1,4 +1,4 @@
-answer a few dialect questions, record speaking a handful of sentences for the raw converter, all from cmi. or integrate it as data and finetune it using deep learning model, add variations(broad for now, intentionally), alternate between these iterations seamlessly. 
+answer a few dialect and orthological questions, record speaking a handful of sentences for the raw converter, all from cmi. or integrate it as data and finetune it using deep learning model, add variations(broad for now, intentionally), alternate between these iterations seamlessly. 
 
 this is personal project. full stop
 
