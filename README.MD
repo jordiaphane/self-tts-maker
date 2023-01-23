@@ -2,4 +2,6 @@ answer a few dialect questions, record speaking a handful of sentences for the r
 
 this is personal project. full stop
 
-create a text-to-speech converter for full text files into.......your own voice? the most beautiful voice
+leaving you, even after only setting up unalterated speech, with text-to-speech converter for large text files into.......your voice? 
+
+the most beautiful voice
