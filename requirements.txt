@@ -1,1 +1,16 @@
 pronouncing
+scipy
+transformers==4.19.0
+tqdm
+rotary_embedding_torch
+tokenizers
+inflect
+progressbar
+einops
+unidecode
+scipy
+librosa
+numba==0.48.0
+ffmpeg
+pyttsx3
+nltk
