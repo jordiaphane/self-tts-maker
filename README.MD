@@ -10,13 +10,7 @@ the most beautiful voice
 
 
 
-Citations:
-@software{Betker_TorToiSe_text-to-speech_2022,
-author = {Betker, James},
-month = {4},
-title = {{TorToiSe text-to-speech}},
-url = {https://github.com/neonbjb/tortoise-tts},
-version = {2.0},
-year = {2022}
-}
-@url{https://github.com/cmusphinx/cmudict}
+Credit/Citation/Thank-Yous:
+tortoise-tts
+Carnegie Mellon Pronunciation Dictionary
+UPenn Linguistic Data Consortium
