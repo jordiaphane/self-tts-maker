@@ -11,6 +11,9 @@ the most beautiful voice
 
 
 Credit/Citation/Thank-Yous:
+
 tortoise-tts
+
 Carnegie Mellon Pronunciation Dictionary
+
 UPenn Linguistic Data Consortium
